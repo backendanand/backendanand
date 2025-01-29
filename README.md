@@ -22,26 +22,21 @@ Welcome to my GitHub! I’m a passionate **Fullstack Developer** with a focus on
 ### 🚀 Projects
 Here are a few of my notable projects:
 
-- **Parth Hospital(https://github.com/yourusername/project1)**  
-  *Description*: A brief summary about this project. Built with Laravel and MySQL.
 
-- **Applicants Tracking Solution(https://github.com/yourusername/project2)**  
+- **Applicants Tracking Solution(https://github.com/backendanand/project2)**  
   *Description*: A brief summary about this project. Built with ASP.NET Core and MSSQL Server.
-
-- **The Cognizance(https://github.com/yourusername/project3)**  
-  *Description*: A brief summary about this project. Built with Laravel and MySQL.
 
 ---
 
 ### 💬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourusername)
-- 📫 Email: codebyaanand@gmail.com(mailto:codebyaanand@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/backendanand)
+- 🐦 [Twitter](https://twitter.com/backendanand)
+- 📫 Email: anand.deosoft@gmail.com(mailto:anand.deosoft@gmail.com)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithanand&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithanand&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=backendanand&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=backendanand&layout=compact&theme=radical)
 
 ---
 
